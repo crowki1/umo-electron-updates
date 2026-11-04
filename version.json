@@ -1,6 +1,6 @@
 {
   "version": "2.4.0",
-  "url": "https://github.com/crowki1/umo-electron-updates/releases/download/v2.4.0/Umo%20Browser%20Setup%202.4.0.exe",
+  "url": "https://github.com/crowki1/umo-electron-updates/releases/download/v2.4.0/Umo.Browser.Setup.2.4.0.exe",
   "notes": "Добавлены живые обои с превью. Улучшена проверка обновлений.",
   "sha256": "563EC631846AAEA4149EC6F989A5CE535CF40BC8ABB1932033EE5653CA042C54"
 }
