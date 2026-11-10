@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "url": "https://github.com/crowki1/umo-electron-updates/releases/download/v2.4.1/Umo.Browser.Setup.2.4.1.exe",
-  "notes": "Улучшена работа и стабильность. Исправлены ошибки загрузки.",
-  "sha256": "B682E66A21C46968B9C206122B5CE9BD05DB4191A76CC1EF873EAA3F130E2761"
+  "version": "2.4.2",
+  "url": "https://github.com/crowki1/umo-electron-updates/releases/download/v2.4.2/Umo.Browser.Setup.2.4.2.exe",
+  "notes": "Задний фон для сайтов: стекло/матовый/контур, авто-tint из обоев, цветовые пресеты, правила на сайт, Ctrl+V, сжатие картинок. Анимации меню и модалок. Тёмные выпадающие списки. Исправления и стабильность.",
+  "sha256": "77320B958CE4A047BFA980343CCA9DB7D7F267393D16CB46DD5DA4356FEA4A88"
 }
